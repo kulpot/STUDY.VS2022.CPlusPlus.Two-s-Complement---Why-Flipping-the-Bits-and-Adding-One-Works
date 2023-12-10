@@ -471,6 +471,16 @@ doit proc			; proc -- procedure
 
 	; All overflow cases: 10+01, overflow cases(leading bits): 1+1=0, 0+0=1, 1+1=1, 0+0=0 
 
+	; ----------------------------------------------- Two's Complement - Why Flipping the Bits and Adding One Works -------------------------------------
+	; ref link:https://www.youtube.com/watch?v=rOuVNdZYAso&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=29
+
+	;
+
+
+
+
+
+
 
 
 
